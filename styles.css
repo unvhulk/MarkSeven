@@ -13,9 +13,9 @@ body {
 #heading {
   background-color: var(--green);
 }
-#minion-img {
-  width: 4rem;
-  height: 6rem;
+#yoda-img {
+  width: 8rem;
+  height: 10rem;
 }
 h1 {
   text-align: center;
@@ -47,7 +47,7 @@ h1 {
   margin-right: auto;
 }
 #foot {
-  background-color: var(--yellow);
+  background-color: var(--green);
   padding: 1.5rem;
   margin-top: 15px;
   text-align: center;
