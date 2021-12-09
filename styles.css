@@ -1,17 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,400;1,700&display=swap");
 :root {
-  --yellow: #fbbf24;
-  --ygrad: #fde68a;
+  --green: #059669;
+  --ggrad: #10b981;
 }
 body {
   font-family: "Noto Sans", sans-serif;
   margin: 0;
   height: 100%;
-  background-color: var(--ygrad);
+  background-color: var(--ggrad);
 }
 
 #heading {
-  background-color: var(--yellow);
+  background-color: var(--green);
 }
 #minion-img {
   width: 4rem;
@@ -38,7 +38,7 @@ h1 {
 #btn-translate {
   width: 15rem;
   height: 3rem;
-  background-color: #d97706;
+  background-color: #30d906;
   color: white;
   border: 3px solid black;
   border-radius: 0.5rem;
